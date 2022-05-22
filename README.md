@@ -14,7 +14,7 @@ Link para a execução do programa na plataforma RepliT: https://replit.com/@LUI
 IDE: CLion Build #CL-221.5080.224<br>
 SO: Windows 10 v.21h2<br>
 
-##EN:
+## EN:
 
 This work is part of the Data Structure subject, of the Computer Science course at UFMA.
 
